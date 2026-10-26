@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode Pandas problems**, focused
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 3          |
+| 🟢 Easy        | 4          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **3**      |
+| **Total**      | **4**      |
 
 ## 📚 Problems
 
@@ -19,6 +19,7 @@ A structured collection of my solutions to **LeetCode Pandas problems**, focused
 | --- | --- | --- | --- |
 | 183 | Customers Who Never Order | Data Merging, Left Join, Missing Values, Data Filtering, Column Renaming | [View](Easy/183-customers-who-never-order) |
 | 595 | Big Countries | Data Filtering, Boolean Indexing, Column Selection | [View](Easy/595-big-countries) |
+| 1148 | Article Views I | Data Filtering, Boolean Indexing, Duplicate Removal, Column Renaming, Sorting | [View](Easy/1148-article-views-i) |
 | 1757 | Recyclable and Low Fat Products | Data Filtering, Boolean Indexing, Logical AND, Column Selection | [View](Easy/1757-recyclable-and-low-fat-products) |
 
 ### 🟡 Medium
