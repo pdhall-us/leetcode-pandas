@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode Pandas problems**, focused
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 1          |
+| 🟢 Easy        | 2          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **1**      |
+| **Total**      | **2**      |
 
 ## 📚 Problems
 
@@ -18,6 +18,7 @@ A structured collection of my solutions to **LeetCode Pandas problems**, focused
 | # | Problem | Topics | Solution |
 | --- | --- | --- | --- |
 | 595 | Big Countries | Data Filtering, Boolean Indexing, Column Selection | [View](Easy/595-big-countries) |
+| 1757 | Recyclable and Low Fat Products | Data Filtering, Boolean Indexing, Logical AND, Column Selection | [View](Easy/1757-recyclable-and-low-fat-products) |
 
 ### 🟡 Medium
 
